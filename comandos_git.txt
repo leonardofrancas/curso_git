@@ -1,2 +1,5 @@
 git init . -> cria um repo git na pasta atual
 git status -> mostra o status do trabalho
+git add nome arquivo -> adiciona arquivo para ser comitado
+git commit -m "mensagem" -> faz comit do que estava para ser comitado
+git log -> mostra histórico de commit
