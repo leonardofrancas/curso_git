@@ -5,7 +5,8 @@ Pessoas participantes
 Leonardo Silva
 Teo Calvo
 
-Segue o link!
+Segue o link! 
+Youtube
 
 #Fluxo de trabalho Git local
 git checkout -b
