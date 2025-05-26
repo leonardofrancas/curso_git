@@ -5,6 +5,8 @@ Pessoas participantes
 Leonardo Silva
 Teo Calvo
 
+Segue o link!
+
 #Fluxo de trabalho Git local
 git checkout -b
 cria ou atualiza arquivos
