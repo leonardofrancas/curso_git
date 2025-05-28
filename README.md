@@ -8,6 +8,8 @@ Teo Calvo
 Segue o link! 
 Youtube
 
+Atualizando!
+
 #Fluxo de trabalho Git local
 git checkout -b
 cria ou atualiza arquivos
